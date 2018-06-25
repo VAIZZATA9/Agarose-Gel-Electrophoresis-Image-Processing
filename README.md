@@ -5,4 +5,4 @@ Primary contributors to the initial code:
 
 John Kucewicz (Matula lab, Applied Physics, UW) - wrote the original program
 
-Daniel Mar and Jackson Chin (Bomsztyk lab, Departments of Medicine and Bioengineering, UW) - expanded the code's functionality and increased robustness
+Daniel Mar and Jackson Chin (Bomsztyk lab, Department of Medicine, UW) - expanded the code's functionality and increased robustness
